@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-14T19:36:42.498Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="17fzafGE6UIhAtOVyNrd" version="21.3.2" type="github">
+<mxfile modified="2023-06-14T20:30:35.123Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="DSaajtj1e48UcdPHvQNe" version="21.3.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1467" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,6 +193,27 @@
           <mxGeometry x="924" y="-100" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="wOK_FyhaBXQIyhYNFU5U-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="wOK_FyhaBXQIyhYNFU5U-20" target="wOK_FyhaBXQIyhYNFU5U-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wOK_FyhaBXQIyhYNFU5U-38" value="Base de datos de Banorte" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="920" width="950" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wOK_FyhaBXQIyhYNFU5U-44" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wOK_FyhaBXQIyhYNFU5U-38">
+          <mxGeometry x="77.5" y="70" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wOK_FyhaBXQIyhYNFU5U-46" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wOK_FyhaBXQIyhYNFU5U-38">
+          <mxGeometry x="310" y="70" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wOK_FyhaBXQIyhYNFU5U-47" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wOK_FyhaBXQIyhYNFU5U-38">
+          <mxGeometry x="540" y="70" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wOK_FyhaBXQIyhYNFU5U-48" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wOK_FyhaBXQIyhYNFU5U-38">
+          <mxGeometry x="770" y="70" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wOK_FyhaBXQIyhYNFU5U-49" value="ACSEL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="wOK_FyhaBXQIyhYNFU5U-38">
+          <mxGeometry x="80" y="120" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wOK_FyhaBXQIyhYNFU5U-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wOK_FyhaBXQIyhYNFU5U-44" target="VlskLWelQ6VUIu-K_A0Z-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
