@@ -1,4 +1,4 @@
-<mxfile modified="2023-07-04T05:06:57.421Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="G7fSZn4Q-Kz1xdCtQ1vA" version="21.4.0" type="github">
+<mxfile modified="2023-07-04T05:09:33.901Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="2sBjaxQocz7NUCddqbAu" version="21.4.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="185" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -299,6 +299,16 @@
         </mxCell>
         <mxCell id="RchtXjUBD6mUK6er0duv-101" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Usuarios&lt;/b&gt;&lt;/font&gt;" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3461.82" y="220" width="168.18" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RchtXjUBD6mUK6er0duv-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="RchtXjUBD6mUK6er0duv-102" target="RchtXjUBD6mUK6er0duv-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2470" y="1030" />
+              <mxPoint x="2470" y="1150" />
+              <mxPoint x="3400" y="1150" />
+              <mxPoint x="3400" y="773" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RchtXjUBD6mUK6er0duv-102" value="&lt;b&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 17px;&quot;&gt;SYSTEM&lt;/font&gt;&lt;/b&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=15;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#000000;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1754" y="930" width="686" height="200" as="geometry" />
