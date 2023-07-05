@@ -1,4 +1,4 @@
-<mxfile modified="2023-07-05T22:01:06.564Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="M_x1G5jdL225d0J-PSVh" version="21.5.2" type="github">
+<mxfile modified="2023-07-05T22:02:23.189Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="w-qaNWLSSHF21zYloZ1m" version="21.5.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="431" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -297,8 +297,22 @@
         <mxCell id="YntPkXyulkXuXodMfOfy-74" value="Amazon&lt;br style=&quot;font-size: 15px;&quot;&gt;CloudWatch Logs&lt;br style=&quot;font-size: 15px;&quot;&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;gradientDirection=north;fillColor=#ff0059;strokeColor=default;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=15;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.cloudwatch;labelBackgroundColor=#ffffff;" vertex="1" parent="YntPkXyulkXuXodMfOfy-1">
           <mxGeometry x="120" y="632" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="YntPkXyulkXuXodMfOfy-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YntPkXyulkXuXodMfOfy-1" source="YntPkXyulkXuXodMfOfy-87" target="YntPkXyulkXuXodMfOfy-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="632" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YntPkXyulkXuXodMfOfy-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YntPkXyulkXuXodMfOfy-1" source="YntPkXyulkXuXodMfOfy-87" target="YntPkXyulkXuXodMfOfy-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1510" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YntPkXyulkXuXodMfOfy-87" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;" vertex="1" parent="YntPkXyulkXuXodMfOfy-1">
-          <mxGeometry x="1440" y="134.5" width="78" height="78" as="geometry" />
+          <mxGeometry x="1463" y="372.5" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="YntPkXyulkXuXodMfOfy-69" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" vertex="1" parent="YntPkXyulkXuXodMfOfy-1">
           <mxGeometry x="1606" y="116.25" width="78" height="78" as="geometry" />
