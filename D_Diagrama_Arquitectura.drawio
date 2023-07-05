@@ -1,6 +1,6 @@
-<mxfile modified="2023-07-05T22:27:56.690Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="qGaK5__FMW_Cp4I55Shu" version="21.5.2" type="github">
+<mxfile modified="2023-07-05T22:29:29.707Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="S6I89QYQma7GwySXMYdU" version="21.5.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="591" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-191" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,22 +151,22 @@
           <mxGeometry x="530" y="850" width="690" height="250" as="geometry" />
         </mxCell>
         <mxCell id="RchtXjUBD6mUK6er0duv-84" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sagemaker;" parent="YntPkXyulkXuXodMfOfy-1" vertex="1">
-          <mxGeometry x="560" y="892" width="78" height="78" as="geometry" />
+          <mxGeometry x="596" y="912" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="RchtXjUBD6mUK6er0duv-85" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AWS SageMaker&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YntPkXyulkXuXodMfOfy-1" vertex="1">
-          <mxGeometry x="570" y="980" width="59" height="30" as="geometry" />
+          <mxGeometry x="605.5" y="997.25" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RchtXjUBD6mUK6er0duv-86" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sagemaker;" parent="YntPkXyulkXuXodMfOfy-1" vertex="1">
-          <mxGeometry x="810" y="892" width="78" height="78" as="geometry" />
+          <mxGeometry x="839" y="912" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="RchtXjUBD6mUK6er0duv-87" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Jupyter Notebook&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YntPkXyulkXuXodMfOfy-1" vertex="1">
-          <mxGeometry x="820" y="980" width="59" height="30" as="geometry" />
+          <mxGeometry x="845.5" y="997.25" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RchtXjUBD6mUK6er0duv-89" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sagemaker;" parent="YntPkXyulkXuXodMfOfy-1" vertex="1">
-          <mxGeometry x="1040" y="892" width="78" height="78" as="geometry" />
+          <mxGeometry x="1070" y="912" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="RchtXjUBD6mUK6er0duv-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AWS SageMaker&lt;br&gt;Endpoints&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YntPkXyulkXuXodMfOfy-1" vertex="1">
-          <mxGeometry x="1049.5" y="990" width="59" height="30" as="geometry" />
+          <mxGeometry x="1079.5" y="1005" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YntPkXyulkXuXodMfOfy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="YntPkXyulkXuXodMfOfy-1" source="YntPkXyulkXuXodMfOfy-2" target="RchtXjUBD6mUK6er0duv-54">
           <mxGeometry relative="1" as="geometry" />
