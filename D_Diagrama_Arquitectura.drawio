@@ -1,4 +1,4 @@
-<mxfile modified="2023-07-05T21:49:46.072Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="oFshosLaMc1jjh1tewkq" version="21.5.2" type="github">
+<mxfile modified="2023-07-05T21:52:33.190Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="R2ZXHgm3UE5erJ6AySPf" version="21.5.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="298" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -285,6 +285,9 @@
         </mxCell>
         <mxCell id="YntPkXyulkXuXodMfOfy-73" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.mq_broker;" vertex="1" parent="YntPkXyulkXuXodMfOfy-1">
           <mxGeometry x="220" y="74" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="YntPkXyulkXuXodMfOfy-74" value="Amazon&lt;br&gt;CloudWatch Logs&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;gradientDirection=north;fillColor=#F34482;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudwatch;labelBackgroundColor=#ffffff;" vertex="1" parent="YntPkXyulkXuXodMfOfy-1">
+          <mxGeometry x="120" y="710" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="YntPkXyulkXuXodMfOfy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;opacity=20;strokeWidth=2;" edge="1" parent="RchtXjUBD6mUK6er0duv-1" source="YntPkXyulkXuXodMfOfy-29" target="RchtXjUBD6mUK6er0duv-18">
           <mxGeometry relative="1" as="geometry" />
