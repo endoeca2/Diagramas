@@ -1,4 +1,4 @@
-<mxfile modified="2023-07-05T23:55:34.271Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="rKhpAH0JVBMC1LFN6rPD" version="21.5.2" type="github">
+<mxfile modified="2023-07-05T23:56:01.662Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="02wVj7fROtKBi8cxiGYU" version="21.5.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2911" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,9 @@
         </mxCell>
         <mxCell id="E6IYqiWsYZzkLXHyFlxj-50" value="Endoso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" vertex="1" parent="E6IYqiWsYZzkLXHyFlxj-40">
           <mxGeometry x="30" y="600" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E6IYqiWsYZzkLXHyFlxj-52" value="CDC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-680" y="425.5" width="90" height="34.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
