@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-29T05:38:27.310Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="Y_YZGf97mORyH7wSUZxU" version="21.6.9" type="github">
+<mxfile modified="2023-08-29T05:39:12.590Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="Zo8oDTFsB4sINshkENum" version="21.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1956" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,7 +257,7 @@
         <mxCell id="E6IYqiWsYZzkLXHyFlxj-57" value="Consulta de datos mediante JDBC/ODBC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2190" y="422.75" width="90" height="34.5" as="geometry" />
         </mxCell>
-        <mxCell id="JWdWJuas_NsQx2qje7wC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;targetPerimeterSpacing=2;strokeWidth=2;" edge="1" parent="1" source="JWdWJuas_NsQx2qje7wC-41" target="E6IYqiWsYZzkLXHyFlxj-57">
+        <mxCell id="JWdWJuas_NsQx2qje7wC-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;targetPerimeterSpacing=2;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="JWdWJuas_NsQx2qje7wC-41" target="E6IYqiWsYZzkLXHyFlxj-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JWdWJuas_NsQx2qje7wC-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.005;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="E6IYqiWsYZzkLXHyFlxj-7">
