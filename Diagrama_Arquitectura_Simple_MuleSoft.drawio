@@ -1,4 +1,4 @@
-<mxfile modified="2023-09-06T23:14:13.410Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="TqVcVr-fCdYMPmHieZMM" version="21.7.2" type="github">
+<mxfile modified="2023-09-06T23:18:37.751Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="NWUyKCvEHkL5USg5XcAl" version="21.7.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="431" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -383,8 +383,10 @@
         <mxCell id="TUHHKemPPGVyijlhL2RZ-4" value="&lt;h1&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 33px;&quot;&gt;OutSystem&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;" parent="TUHHKemPPGVyijlhL2RZ-1" vertex="1">
           <mxGeometry x="130" y="80" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TUHHKemPPGVyijlhL2RZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="TUHHKemPPGVyijlhL2RZ-2" target="RchtXjUBD6mUK6er0duv-101" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TUHHKemPPGVyijlhL2RZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="TUHHKemPPGVyijlhL2RZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3590" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
