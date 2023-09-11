@@ -1,6 +1,6 @@
-<mxfile modified="2023-09-11T17:52:21.858Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="Y6fLTjirr8giqtapFNot" version="21.7.4" type="github">
+<mxfile modified="2023-09-11T17:54:50.860Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="JdzcUezxUfgyLJ4A6LTW" version="21.7.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="298" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="88" dy="1518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -379,18 +379,8 @@
         <mxCell id="u7HyIJDjVfA_6CPgTIm--8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;ANYPOINT PLATFORM&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TUHHKemPPGVyijlhL2RZ-1">
           <mxGeometry x="328" y="210" width="250" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TUHHKemPPGVyijlhL2RZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=2;startArrow=classic;startFill=1;" parent="TUHHKemPPGVyijlhL2RZ-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="702.5" as="targetPoint" />
-            <mxPoint x="562" y="280" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1101" y="280.5" />
-              <mxPoint x="1101" y="702.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="u7HyIJDjVfA_6CPgTIm--6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Llamados a API (JSON/SOAP/HTTP)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3461.82" y="-150" width="100" height="32" as="geometry" />
+          <mxGeometry x="3439.7400000000002" y="-150" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="u7HyIJDjVfA_6CPgTIm--9" value="SEGUROS Y PENSIONES" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2560" y="-170" width="730" height="150" as="geometry" />
@@ -412,6 +402,15 @@
         </mxCell>
         <mxCell id="u7HyIJDjVfA_6CPgTIm--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TUHHKemPPGVyijlhL2RZ-2" target="u7HyIJDjVfA_6CPgTIm--11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUHHKemPPGVyijlhL2RZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=2;startArrow=classic;startFill=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="RchtXjUBD6mUK6er0duv-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3590" y="192.5" as="targetPoint" />
+            <mxPoint x="3052" y="-230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="3588" y="-230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
