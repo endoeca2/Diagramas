@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T20:43:26.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="4x-BX6mRNCxFGLsxNELw" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T20:43:40.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="OSySNjTDRbVUQGud0c_8" version="22.0.4" type="github">
   <diagram name="Página-1" id="IShoV4XyDB_bVi-w6TAJ">
-    <mxGraphModel dx="1760" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="620" y="40" width="1230" height="900" as="geometry" />
         </mxCell>
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-179" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;strokeWidth=2;" vertex="1" parent="hxzWcSokCXAnX9aGO5Kh-92">
-          <mxGeometry x="40" y="30" width="1160" height="780" as="geometry" />
+          <mxGeometry x="40" y="30" width="1160" height="840" as="geometry" />
         </mxCell>
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-113" value="Amazon&lt;br&gt;CloudWatch Logs&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;gradientDirection=north;fillColor=#F34482;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.cloudwatch;labelBackgroundColor=#ffffff;" vertex="1" parent="hxzWcSokCXAnX9aGO5Kh-179">
           <mxGeometry x="654.0000000000002" y="452" width="78" height="78" as="geometry" />
