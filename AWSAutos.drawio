@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T20:46:52.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="J4Ud_-MvFHQSey5o6G6H" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-11T20:48:46.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="MM6ozAiXB1y3zxB__TBW" version="22.0.4" type="github">
   <diagram name="Página-1" id="IShoV4XyDB_bVi-w6TAJ">
     <mxGraphModel dx="1354" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,25 +103,25 @@
           <mxGeometry x="110.00000000000023" y="100" width="78" height="44" as="geometry" />
         </mxCell>
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-224" value="&lt;b&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px;&quot;&gt;MACHINE LEARNING&lt;/font&gt;&lt;/b&gt;" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="hxzWcSokCXAnX9aGO5Kh-179">
-          <mxGeometry x="240" y="600" width="730" height="210" as="geometry" />
+          <mxGeometry x="120" y="540" width="730" height="210" as="geometry" />
         </mxCell>
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-225" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sagemaker;" vertex="1" parent="hxzWcSokCXAnX9aGO5Kh-179">
-          <mxGeometry x="310" y="642" width="78" height="78" as="geometry" />
+          <mxGeometry x="190" y="582" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-226" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AWS SageMaker&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxzWcSokCXAnX9aGO5Kh-179">
-          <mxGeometry x="320" y="730" width="59" height="30" as="geometry" />
+          <mxGeometry x="200" y="670" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-227" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sagemaker;" vertex="1" parent="hxzWcSokCXAnX9aGO5Kh-179">
-          <mxGeometry x="560" y="642" width="78" height="78" as="geometry" />
+          <mxGeometry x="440" y="582" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-228" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Jupyter Notebook&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxzWcSokCXAnX9aGO5Kh-179">
-          <mxGeometry x="570" y="730" width="59" height="30" as="geometry" />
+          <mxGeometry x="450" y="670" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-229" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sagemaker;" vertex="1" parent="hxzWcSokCXAnX9aGO5Kh-179">
-          <mxGeometry x="790" y="642" width="78" height="78" as="geometry" />
+          <mxGeometry x="670" y="582" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-230" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AWS SageMaker&lt;br&gt;Endpoints&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hxzWcSokCXAnX9aGO5Kh-179">
-          <mxGeometry x="799.5" y="740" width="59" height="30" as="geometry" />
+          <mxGeometry x="679.5" y="680" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hxzWcSokCXAnX9aGO5Kh-179" source="hxzWcSokCXAnX9aGO5Kh-232" target="hxzWcSokCXAnX9aGO5Kh-224">
           <mxGeometry relative="1" as="geometry" />
