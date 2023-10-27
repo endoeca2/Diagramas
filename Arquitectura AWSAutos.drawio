@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T17:05:49.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="hol6R9fmehTALMCr608h" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T17:21:43.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="Nc4e8aLPqMunH2Qjap08" version="22.0.8" type="github">
   <diagram name="Página-1" id="IShoV4XyDB_bVi-w6TAJ">
     <mxGraphModel dx="1956" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,14 +309,6 @@
         <mxCell id="OXoXbEI4XvzyERVHK_qv-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;TXT&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="711.5000000000002" y="-262" width="97.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jj_e3o3K_NvpHCDC5kkk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hxzWcSokCXAnX9aGO5Kh-232" target="hxzWcSokCXAnX9aGO5Kh-278" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="980" y="230" />
-              <mxPoint x="1421" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YlvraR_R_mycRPaZt-QY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hxzWcSokCXAnX9aGO5Kh-1" target="OXoXbEI4XvzyERVHK_qv-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -335,6 +327,15 @@
               <mxPoint x="1528" y="-10" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YlvraR_R_mycRPaZt-QY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hxzWcSokCXAnX9aGO5Kh-232" target="hxzWcSokCXAnX9aGO5Kh-301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlvraR_R_mycRPaZt-QY-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="1095.9200000000003" y="2" width="81.16" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YlvraR_R_mycRPaZt-QY-16" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;TXT&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1087.7500000000002" y="-30" width="97.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
