@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T16:51:16.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="r-gSh4quBwcRSkhoKSHw" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T16:56:25.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="ezpZIU4MJIW4vMxiLO6s" version="22.0.8" type="github">
   <diagram name="Página-1" id="IShoV4XyDB_bVi-w6TAJ">
     <mxGraphModel dx="1956" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
         <mxCell id="hxzWcSokCXAnX9aGO5Kh-278" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Reporte de Seguimiento de conocimiento del cliente&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1370" y="18" width="138.17" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hxzWcSokCXAnX9aGO5Kh-325" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;IAS&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="hxzWcSokCXAnX9aGO5Kh-325" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;IAS - BANCO&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1726.8799999999997" y="-12" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EnTJdFaefljn32-o355Z-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hxzWcSokCXAnX9aGO5Kh-326" target="hxzWcSokCXAnX9aGO5Kh-248" edge="1">
