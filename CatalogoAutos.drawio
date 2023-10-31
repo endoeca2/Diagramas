@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T06:23:36.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="2H_xZEL_aRQSTTqg3wwR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T06:31:22.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="S2MOs1FuNAAH7cruBEfx" version="22.0.8" type="github">
   <diagram name="Página-1" id="WvRyxk6PXsDEB4z57DiI">
-    <mxGraphModel dx="1100" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,6 +435,9 @@
         </mxCell>
         <mxCell id="EktAlmnSRhTw89N247DK-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ESPACIO&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="WFNdp1j5Sh6ukdSeras9-1">
           <mxGeometry x="33.25" y="358.8" width="97.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EktAlmnSRhTw89N247DK-35" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Reglas de ingesta de claves&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="WFNdp1j5Sh6ukdSeras9-1">
+          <mxGeometry x="895" y="34.8" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EktAlmnSRhTw89N247DK-25" value="GUIA AZUL" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="1">
           <mxGeometry x="930" y="-79.99999999999999" width="120" height="70" as="geometry" />
