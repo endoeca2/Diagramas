@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T07:13:34.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="U9-xNctQIAa4ZGNl_a7x" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:15:03.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="zve7qlpk2XQs1sJ5ddC5" version="22.0.8" type="github">
   <diagram name="Página-1" id="WvRyxk6PXsDEB4z57DiI">
-    <mxGraphModel dx="1173" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,9 +401,6 @@
             <mxRectangle width="62" height="8" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EktAlmnSRhTw89N247DK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.823;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WFNdp1j5Sh6ukdSeras9-1" source="EktAlmnSRhTw89N247DK-4" target="WFNdp1j5Sh6ukdSeras9-102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="EktAlmnSRhTw89N247DK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WFNdp1j5Sh6ukdSeras9-1" source="EktAlmnSRhTw89N247DK-22" target="WFNdp1j5Sh6ukdSeras9-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -514,6 +511,15 @@
         </mxCell>
         <mxCell id="EktAlmnSRhTw89N247DK-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/brands-applications/512/Excel_D-128.png" vertex="1" parent="WFNdp1j5Sh6ukdSeras9-1">
           <mxGeometry x="1202.6" y="384.85" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="EktAlmnSRhTw89N247DK-69" value="" style="fillColor=none;strokeColor=#050505;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="WFNdp1j5Sh6ukdSeras9-1">
+          <mxGeometry x="1120" y="22.8" width="210" height="501.2" as="geometry" />
+        </mxCell>
+        <mxCell id="EktAlmnSRhTw89N247DK-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="WFNdp1j5Sh6ukdSeras9-1" source="EktAlmnSRhTw89N247DK-63" target="EktAlmnSRhTw89N247DK-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EktAlmnSRhTw89N247DK-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="WFNdp1j5Sh6ukdSeras9-1" source="EktAlmnSRhTw89N247DK-63" target="WFNdp1j5Sh6ukdSeras9-102">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EktAlmnSRhTw89N247DK-25" value="GUIA AZUL" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="1">
           <mxGeometry x="930" y="-140" width="120" height="70" as="geometry" />
