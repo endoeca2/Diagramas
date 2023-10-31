@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T06:44:30.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="gLIB6Ut5uDXoBZR2SFzz" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T06:45:08.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="orFGhSE3sOtbRP4_trDY" version="22.0.8" type="github">
   <diagram name="Página-1" id="WvRyxk6PXsDEB4z57DiI">
     <mxGraphModel dx="1354" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -438,6 +438,9 @@
         </mxCell>
         <mxCell id="EktAlmnSRhTw89N247DK-35" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Reglas de ingesta de claves&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="WFNdp1j5Sh6ukdSeras9-1">
           <mxGeometry x="895" y="34.8" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EktAlmnSRhTw89N247DK-39" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Reglas de ingesta de claves&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="WFNdp1j5Sh6ukdSeras9-1">
+          <mxGeometry x="200" y="88.8" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EktAlmnSRhTw89N247DK-25" value="GUIA AZUL" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.document;" vertex="1" parent="1">
           <mxGeometry x="930" y="-140" width="120" height="70" as="geometry" />
