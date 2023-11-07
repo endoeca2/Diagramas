@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T22:46:09.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="bvZxl8Au-pRcNKITqzHW" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T22:47:53.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="6thU8S3o1DLXeh9SvRih" version="22.0.8" type="github">
   <diagram name="Página-1" id="WvRyxk6PXsDEB4z57DiI">
     <mxGraphModel dx="1173" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,33 +128,6 @@
         </mxCell>
         <mxCell id="BKHL71_pdha9dkzrWFF4-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="WFNdp1j5Sh6ukdSeras9-1">
           <mxGeometry x="740" y="291.3" width="40" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="WFNdp1j5Sh6ukdSeras9-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-128.png;" parent="1" vertex="1">
-          <mxGeometry x="143.18" y="600" width="84" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="WFNdp1j5Sh6ukdSeras9-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ACSEL&lt;br&gt;REPLICA&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="136.43" y="687" width="97.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EktAlmnSRhTw89N247DK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="EktAlmnSRhTw89N247DK-22" target="WFNdp1j5Sh6ukdSeras9-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EktAlmnSRhTw89N247DK-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-128.png;" parent="1" vertex="1">
-          <mxGeometry x="143.18" y="794.8" width="84" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="EktAlmnSRhTw89N247DK-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ESPACIO&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="136.43" y="881.8" width="97.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EktAlmnSRhTw89N247DK-58" value="BASES" style="fillColor=none;strokeColor=#050505;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="113.18" y="580" width="180" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="EktAlmnSRhTw89N247DK-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="EktAlmnSRhTw89N247DK-59" target="EktAlmnSRhTw89N247DK-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EktAlmnSRhTw89N247DK-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-128.png;" parent="1" vertex="1">
-          <mxGeometry x="143.18" y="963" width="84" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="EktAlmnSRhTw89N247DK-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ENLACE&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="136.43" y="1050" width="97.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
