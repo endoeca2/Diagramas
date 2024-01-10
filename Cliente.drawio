@@ -1,6 +1,6 @@
-<mxfile modified="2024-01-10T06:49:18.819Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="gENchAl8kpJaBO1qK2zC" version="22.1.18" type="github">
+<mxfile modified="2024-01-10T06:55:50.370Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="Q1jIim33lYoL7zUhZSfL" version="22.1.18" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="-191" dy="-289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-517" dy="-468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,6 +113,15 @@
         </mxCell>
         <mxCell id="HTAtK9UQBId-LNGScgsZ-60" value="" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2066" y="1210" width="124" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HTAtK9UQBId-LNGScgsZ-62" value="&lt;font color=&quot;#000000&quot;&gt;Canales Alternos&lt;/font&gt;" style="fillColor=none;strokeColor=#000000;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="955" width="170" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HTAtK9UQBId-LNGScgsZ-63" value="&lt;font color=&quot;#000000&quot;&gt;Digital&lt;/font&gt;" style="fillColor=none;strokeColor=#000000;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;whiteSpace=wrap;html=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="955" width="170" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HTAtK9UQBId-LNGScgsZ-64" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;INNOVEO&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="1000" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
