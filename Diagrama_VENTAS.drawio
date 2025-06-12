@@ -201,7 +201,7 @@
           <mxGeometry x="220" y="74" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="RchtXjUBD6mUK6er0duv-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Red interna de Banorte&lt;/b&gt;&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#4D4D4D;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="380" width="470" height="520" as="geometry" />
+          <mxGeometry x="1750" y="40" width="660" height="1190" as="geometry" />
         </mxCell>
         <mxCell id="RchtXjUBD6mUK6er0duv-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/database-128.png;" parent="RchtXjUBD6mUK6er0duv-36" vertex="1">
           <mxGeometry x="277" y="90" width="128" height="128" as="geometry" />
