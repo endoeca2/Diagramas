@@ -62,17 +62,17 @@
         <mxCell id="YIkdAWbjiLNAA7PzAJ1W-22" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="60" width="60" x="520" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="YIkdAWbjiLNAA7PzAJ1W-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HC_PARTICIPANTE_FACTORES" vertex="1">
-          <mxGeometry height="30" width="60" x="530" y="180" as="geometry" />
+        <mxCell id="YIkdAWbjiLNAA7PzAJ1W-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HC_PARTICIPANTE_FACTORES&lt;div&gt;&lt;code&gt;HSID_PARTICIPANTE_PADRE&lt;/code&gt;&lt;/div&gt;&lt;div&gt;&lt;code&gt;&lt;code&gt;MAT_UNICOS_HSID_RFC_DESC&lt;/code&gt;&lt;/code&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="190" as="geometry" />
         </mxCell>
         <mxCell id="YIkdAWbjiLNAA7PzAJ1W-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DWH/SEMAPP" vertex="1">
           <mxGeometry height="30" width="120" x="490" y="90" as="geometry" />
         </mxCell>
         <mxCell id="YIkdAWbjiLNAA7PzAJ1W-25" parent="1" style="text;whiteSpace=wrap;" value="15.10.155.150:1537/CSDWHPR1" vertex="1">
-          <mxGeometry height="40" width="210" x="820" y="80" as="geometry" />
+          <mxGeometry height="40" width="210" x="1100" y="100" as="geometry" />
         </mxCell>
         <mxCell id="YIkdAWbjiLNAA7PzAJ1W-26" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="40" width="90" x="870" y="110" as="geometry" />
+          <mxGeometry height="40" width="90" x="1150" y="130" as="geometry" />
         </mxCell>
         <mxCell id="YIkdAWbjiLNAA7PzAJ1W-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="nueva_ingesta_iias.txt" vertex="1">
           <mxGeometry height="20" width="60" x="200" y="-90" as="geometry" />
@@ -82,6 +82,21 @@
         </mxCell>
         <mxCell id="YIkdAWbjiLNAA7PzAJ1W-32" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" value="" vertex="1">
           <mxGeometry height="50" width="47.5" x="200" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="YIkdAWbjiLNAA7PzAJ1W-38" edge="1" parent="1" source="YIkdAWbjiLNAA7PzAJ1W-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YIkdAWbjiLNAA7PzAJ1W-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIkdAWbjiLNAA7PzAJ1W-39" edge="1" parent="1" source="YIkdAWbjiLNAA7PzAJ1W-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YIkdAWbjiLNAA7PzAJ1W-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIkdAWbjiLNAA7PzAJ1W-35" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="50" width="47.5" x="820" as="geometry" />
+        </mxCell>
+        <mxCell id="YIkdAWbjiLNAA7PzAJ1W-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong class=&quot;file-title-name gl-word-break-all&quot; data-qa-selector=&quot;file_name_content&quot; style=&quot;box-sizing: border-box; font-weight: bold; word-break: break-all; color: rgb(48, 48, 48); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250);&quot;&gt;MAT_BASE_SEGUROS.sql&amp;nbsp;&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="20" width="210" x="750" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIkdAWbjiLNAA7PzAJ1W-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong class=&quot;file-title-name gl-word-break-all&quot; data-qa-selector=&quot;file_name_content&quot; style=&quot;box-sizing: border-box; font-weight: bold; word-break: break-all; color: rgb(48, 48, 48); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250);&quot;&gt;MAT_BASE_SEGUROS&lt;/strong&gt;&lt;div&gt;&lt;span class=&quot;file-title-name gl-word-break-all&quot; data-qa-selector=&quot;file_name_content&quot; style=&quot;box-sizing: border-box; word-break: break-all; text-align: left; background-color: rgb(250, 250, 250); color: rgb(48, 48, 48);&quot;&gt;&lt;font color=&quot;#303030&quot; face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;BASE_RFC_SIC&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="210" x="1090" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
