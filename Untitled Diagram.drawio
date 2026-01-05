@@ -183,6 +183,15 @@
         <mxCell id="jxrgDvH2YAoPxBPfRe-m-48" edge="1" parent="1" source="jxrgDvH2YAoPxBPfRe-m-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="jxrgDvH2YAoPxBPfRe-m-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jxrgDvH2YAoPxBPfRe-m-49" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="50" width="47.5" x="311.25" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="jxrgDvH2YAoPxBPfRe-m-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#303030&quot; face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;&lt;b&gt;Tabla:&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#303030&quot; face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(250, 250, 250);&quot;&gt;&lt;b&gt;DM_SINIESTRO&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="210" x="210" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="jxrgDvH2YAoPxBPfRe-m-51" edge="1" parent="1" source="jxrgDvH2YAoPxBPfRe-m-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="jxrgDvH2YAoPxBPfRe-m-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
