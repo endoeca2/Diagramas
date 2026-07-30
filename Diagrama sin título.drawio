@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="XNhVG3AF8z4onsPi2xpG">
-    <mxGraphModel dx="1106" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-1" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" value="AWS Cloud" vertex="1">
-          <mxGeometry height="490" width="510" x="60" y="310" as="geometry" />
+          <mxGeometry height="570" width="510" x="60" y="310" as="geometry" />
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-2" parent="2EP0Cxc9BCVCm5uwfoOs-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database_migration_service;" value="Database&lt;div&gt;Migration Service&lt;/div&gt;" vertex="1">
           <mxGeometry height="78" width="78" x="315" y="90" as="geometry" />
@@ -25,18 +25,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-21" parent="2EP0Cxc9BCVCm5uwfoOs-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" value="S3&lt;div&gt;Datalake&lt;/div&gt;" vertex="1">
-          <mxGeometry height="78" width="78" x="80" y="250" as="geometry" />
+          <mxGeometry height="78" width="78" x="80" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="d4I9QuK3xvypgbL-y85U-3" parent="2EP0Cxc9BCVCm5uwfoOs-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.glue;" value="" vertex="1">
+          <mxGeometry height="78" width="78" x="80" y="260" as="geometry" />
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-7" parent="1" style="sketch=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#006EAF;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_database;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;BD&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Vistas&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Materializadas&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;DMSDV01&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="78" width="59" x="680" y="330" as="geometry" />
+          <mxGeometry height="78" width="59" x="-420" y="380" as="geometry" />
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-8" edge="1" parent="1" source="2EP0Cxc9BCVCm5uwfoOs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#6a00ff;strokeColor=#3700CC;" target="2EP0Cxc9BCVCm5uwfoOs-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="639" />
-              <mxPoint x="890" y="369" />
+              <mxPoint x="-210" y="689" />
+              <mxPoint x="-210" y="419" />
             </Array>
-            <mxPoint x="770" y="370" as="targetPoint" />
+            <mxPoint x="-330" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-9" connectable="0" parent="2EP0Cxc9BCVCm5uwfoOs-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Replicacion&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;de Base de datos&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;(Periocidad Diaria&lt;/span&gt;&lt;span style=&quot;font-size: 12px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -58,16 +61,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-12" parent="1" style="sketch=0;outlineConnect=0;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_database;fontColor=#ffffff;" value="&lt;font color=&quot;#000000&quot;&gt;BD&lt;br&gt;Centrales&lt;/font&gt;" vertex="1">
-          <mxGeometry height="78" width="59" x="680" y="600" as="geometry" />
+          <mxGeometry height="78" width="59" x="-420" y="650" as="geometry" />
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- Usuario CDC - Conecta con Centrales&lt;br&gt;&lt;br&gt;&lt;div&gt;- Usuario por cada conexión (CDC_ACSEL, CDC_SIAUT, CDC_DWH, CDC_AJMOVIL)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="241" x="910" y="540" as="geometry" />
+          <mxGeometry height="30" width="241" x="-190" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="2EP0Cxc9BCVCm5uwfoOs-14" edge="1" parent="1" source="2EP0Cxc9BCVCm5uwfoOs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d80073;strokeColor=#FF00FF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="2EP0Cxc9BCVCm5uwfoOs-7">
+        <mxCell id="2EP0Cxc9BCVCm5uwfoOs-14" edge="1" parent="1" source="2EP0Cxc9BCVCm5uwfoOs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;fillColor=#d80073;strokeColor=#FF00FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="2EP0Cxc9BCVCm5uwfoOs-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="439" />
-              <mxPoint x="540" y="369" />
+              <mxPoint x="414" y="260" />
+              <mxPoint x="-390.43" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -77,16 +80,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-16" parent="1" style="sketch=0;outlineConnect=0;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.generic_database;fontColor=#ffffff;opacity=30;" value="&lt;font color=&quot;#000000&quot;&gt;MLOG$&lt;/font&gt;" vertex="1">
-          <mxGeometry height="78" width="59" x="680" y="770" as="geometry" />
+          <mxGeometry height="78" width="59" x="-420" y="820" as="geometry" />
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Aquí vive el CDC_USER&lt;div&gt;- USUARIO Fuente&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="750" y="600" as="geometry" />
+          <mxGeometry height="30" width="110" x="-350" y="650" as="geometry" />
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Aquí vive el CDC_ACSEL, CDC_AJMOVIL,&lt;div&gt;CDC_DWH,&lt;/div&gt;&lt;div&gt;CDC_SIAUT&amp;nbsp;&lt;/div&gt;&lt;div&gt;USUARIOS Destino&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="750" y="354" as="geometry" />
+          <mxGeometry height="30" width="110" x="-350" y="404" as="geometry" />
         </mxCell>
         <mxCell id="2EP0Cxc9BCVCm5uwfoOs-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Aquí vive el CDC_DATALAKE&lt;div&gt;- Para la conexión de AWS y Oracle. (Se implementan permisos superiores)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="570" y="330" as="geometry" />
+          <mxGeometry height="30" width="110" x="-540" y="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
